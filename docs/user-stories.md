@@ -7,6 +7,7 @@ Coach/Admin
   - As a coach, I want to be able to invite players and parents to my team's chat
   - As a coach, I want to be able to message all my team
 
+
 Parent
 -
   - As a Parent, I want to be able to sign in as myself or on behalf on my child and myself
